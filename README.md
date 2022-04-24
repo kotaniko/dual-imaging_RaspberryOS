@@ -21,7 +21,7 @@ Linux raspberrypi 5.10.103-v8+ #1530 SMP PREEMPT Tue Mar 8 13:06:35 GMT 2022 aar
 ## Scripts
 
 * createRamdisk.sh
-    - create ramdisk
+    - creates ramdisk at /tmp/ram
 
 * demo_video.sh
-    - script used in the demonstration
+    - script used in the demonstration video
